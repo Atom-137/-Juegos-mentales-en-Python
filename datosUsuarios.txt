@@ -1,0 +1,18 @@
+
+Nombre del usuario: Prueaba1
+ Notas obtenidas
+[['Nombre del nivel', 'Nivel alcanzado', 'Punteo'], ['COMPLETAR SERIE NUMERICA', '  NIVEL 1', '']]
+Obtuvo en total: 
+10 pts
+
+Nombre del usuario: Jhon
+Notas obtenidas
+[['Nombre del nivel', 'Nivel alcanzado', 'Punteo'], ['PROBLEMAS MATEMATICOS', '     NIVEL 1', '']]
+Obtuvo en total: 
+3 pts
+
+Nombre del usuario: gff
+Notas obtenidas
+[['Nombre del nivel', 'Nivel alcanzado', 'Punteo'], ['COMPLETAR SERIE NUMERICA', '  NIVEL 1', '']]
+Obtuvo en total: 
+10 pts
